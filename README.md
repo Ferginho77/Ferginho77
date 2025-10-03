@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fergie Fakhirusalam</h1>
-<h3 align="center">A Student Of Vocational High School</h3>
+<h3 align="center">A Student at Universitas Logistik dan Bisnis Internasional</h3>
 
-- 🌱 I’m currently learning **Laravel And React**
-
-- 👨‍💻 All of my projects are available at [fergiefakhirusalam.vercel.app](fergiefakhirusalam.vercel.app)
+- 🌱 I’m currently learning **Laravel and React**
 
 - 📫 How to reach me **fergiefakhirusalam@gmail.com**
 
-- ⚡ Fun fact **I Like Football⚽🇮🇩**
+- ⚡ Fun fact **I Like Football ⚽🇮🇩**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -61,5 +59,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
 </p>
-
-
