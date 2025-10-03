@@ -53,7 +53,7 @@
 
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://www.google.com/imgres?q=laravel%20svg&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FLaravel.svg%2F985px-Laravel.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALaravel.svg&docid=dbBneiuXPCUEeM&tbnid=qlwYxQWGqGsedM&vet=12ahUKEwjZn7jsmYiQAxXhxDgGHTftGSgQM3oECBYQAA..i&w=985&h=1024&hcb=2&ved=2ahUKEwjZn7jsmYiQAxXhxDgGHTftGSgQM3oECBYQAA" alt="laravel" width="40" height="40"/>
   </a>
 
   <!-- React -->
